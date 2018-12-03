@@ -1,0 +1,5 @@
+E:\C#\UMATSConsole\UMATSConsole\bin\Debug\UMATSConsole.exe.config
+E:\C#\UMATSConsole\UMATSConsole\bin\Debug\UMATSConsole.exe
+E:\C#\UMATSConsole\UMATSConsole\bin\Debug\UMATSConsole.pdb
+E:\C#\UMATSConsole\UMATSConsole\obj\Debug\UMATSConsole.exe
+E:\C#\UMATSConsole\UMATSConsole\obj\Debug\UMATSConsole.pdb

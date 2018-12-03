@@ -1,0 +1,37 @@
+E:\C#\UMATS\UMATS\bin\Debug\UMATS.exe.config
+E:\C#\UMATS\UMATS\bin\Debug\UMATS.exe
+E:\C#\UMATS\UMATS\bin\Debug\UMATS.pdb
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Form1.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Properties.Resources.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.csproj.GenerateResource.Cache
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.exe
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.pdb
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.User.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Admin.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Index.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Student.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Mail.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Calculator.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.Map.resources
+E:\C#\UMATS\UMATS\obj\Debug\UMATS.csprojResolveAssemblyReference.cache
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\bin\Debug\UMATS.exe.config
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.exe
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.pdb
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\bin\Debug\UMATS.exe
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\bin\Debug\UMATS.pdb
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Admin.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Calculator.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Form1.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Index.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Mail.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Map.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Properties.Resources.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.startingPage.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.Student.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.User.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.csproj.GenerateResource.Cache
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\bin\Debug\AForge.Video.dll
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.nextPage.resources
+C:\Users\Koushik Gerrard\Desktop\Merging\UMATS\UMATS\obj\Debug\UMATS.csprojResolveAssemblyReference.cache

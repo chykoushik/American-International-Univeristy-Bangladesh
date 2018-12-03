@@ -1,0 +1,168 @@
+body {
+   background-color:#FFFFCC;
+   font-size:14px;
+   font-family:'Arial';
+   margin:0;
+   padding:0;
+   color:#2e2e2e;
+   text-align:center
+}
+a {
+   color:#1D8ECE
+}
+a:hover {
+   text-decoration:none
+}
+#top-header {
+   width:1000px;
+   margin:0 auto;
+   position:relative;
+   z-index:1000;
+   height:186px
+}
+#header {
+}
+#police-logo {
+   position:absolute;
+   top:26px;
+   left:57px;
+   width:213px;
+   height:162px
+   }
+#police-logo h2 {
+   font-size:18px;
+   color:#2e2e2e;
+   margin:0;
+   position:absolute;
+   left:26px;
+   }
+#police-logo h1 {
+   margin:0;
+   padding:0
+   }
+#logo {
+   width:208px;
+   height:105px}
+#main-menu {
+   margin:0;
+   padding:0;
+   list-style:none;
+   display:block;
+   position:absolute;
+   right:0;
+   top:0
+   }
+#main-menu li {
+   float:left
+   }
+#main-menu a {
+   padding:30px 33px;
+   font-size:19px;
+   
+   text-decoration:none;
+   display:inline-block;
+   color:#2E2E2E}
+#main-menu a:hover, 
+#main-navigation a {
+   color:red;
+   
+   }
+#main-navigation a.last {
+   border-right:none;
+   background-image:none
+   }
+#add-navigation {
+   width:140px;
+   height:37px;
+   position:absolute;
+   right:30px;
+   bottom:25px;
+   z-index:500
+   }
+#add-navigation img {
+   height:37px;
+   width:37px;
+   position:relative;
+   z-index:2000
+}
+#header-banner h2 span {
+   font-size:35px;
+   color:##FF0000 
+   }
+
+#header-banner h2 {
+   font-size:52px;
+   margin:0;
+   font-family:'Times New Roman';
+   color:#fff;
+   padding:0px 0 0 57px
+   }   
+#header-banner-wrap {
+   clear:both;
+   padding:0;
+   margin:0;
+   border-top:10px solid #FFFFCC;
+   border-bottom:10px solid #FFFFCC;
+   background-color:#006666 
+   }
+#header-banner {
+   margin:0 auto;
+   height:70px;
+   width:1000px;
+   text-align:left;
+   position:relative;
+   background-color:#006666;
+   }   
+#about span{
+   
+   font-size:20px;
+   color:black;
+   height:100px;
+   width:10px;
+   text-align:center;
+}
+.ed{
+    border-style:solid;
+    border-width:thin;
+    border-color:#00CCFF;
+    padding:10px;
+    margin-bottom: 4px;
+}
+.ed1{
+    border-style:solid;
+    border-width:thin;
+    border-color:#00CCFF;
+    padding:100px;
+    margin-bottom: 4px;
+}
+#button1{
+   text-align:center;
+   font-family:Arial, Helvetica, sans-serif;
+   border-style:solid;
+   border-width:thin;
+   border-color:#00CCFF;
+   padding:5px;
+   background-color:#00CCFF;
+   height: 34px;
+}
+#imagelist{
+   border: thin solid silver;
+   float:left;
+   padding:5px;
+   width:auto;
+   margin: 0 5px 0 0;
+}
+p{
+   margin:0;
+   padding:0;
+   text-align: center;
+   font-style: italic;
+   font-size: smaller;
+   text-indent: 0;
+}
+#caption{
+   margin-top: 5px;
+}
+img{
+   height: 225px;
+}
